@@ -5,3 +5,5 @@
 ## Currently uploaded
 
 1. Rock vs Mine prediction.
+2. Titanic competition
+3. 
